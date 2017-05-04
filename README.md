@@ -1,7 +1,7 @@
-# Basic Project
+# JoggedHoursApp
 ## Basic Project Structure
 
-*Default Structure for A Basic Project*
+*JoggedHoursApp*
 
 **Java 8**
 
